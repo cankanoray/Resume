@@ -1,0 +1,193 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #e5e5e5;
+}
+
+.main_container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+  margin: 40px auto;
+}
+
+.content_cont {
+  width: 830px;
+  margin: 100px 90px;
+}
+
+.about_me {
+  margin-bottom: 40px;
+}
+
+.about_me_profession {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  margin-bottom: 20px;
+}
+
+.about_me_name {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  color: #000000;
+  margin-bottom: 25px;
+}
+
+.about_me_description {
+  width: 400px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.projects {
+  margin-bottom: 50px;
+  width: 485px;
+}
+
+.content_title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.projects_list {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+  padding: 0 0 0 17px;
+}
+
+.projects_bracket {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+
+.experience {
+  margin-bottom: 50px;
+  width: 525px;
+}
+
+.experience_position {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.experience_company {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fb6d3a;
+  margin-bottom: 10px;
+}
+
+.experience_dates {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+  margin-bottom: 8px;
+}
+
+.experince_line {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #000000;
+}
+
+.experience_list {
+  width: 400px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-bottom: 15px;
+  padding: 0 0 0 17px;
+}
+
+.education {
+  margin-bottom: 50px;
+  width: 327px;
+}
+
+/*sidebar section*/
+.sidebar_cont {
+  background-color: #42494a;
+  width: 370px;
+  padding: 40px 0;
+}
+
+.contacts,
+.tech,
+.soft {
+  margin: 50px 0 0 40px;
+  color: #ffffff;
+}
+
+.side_title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+.contact_type {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+  margin-right: 10px;
+}
+
+.contact_link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+  opacity: 0.5;
+}
+
+.tech_list {
+  padding: 0 0 0 17px;
+}
+
+.side_list_item {
+  color: #ea7254;
+}
+
+.side_list_text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+}
